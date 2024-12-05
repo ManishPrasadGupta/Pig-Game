@@ -2,7 +2,7 @@
 A fun and interactive dice-based game built with HTML, CSS, and JavaScript. The Pig Game is a two-player game where players take turns rolling a dice, accumulating points, and strategizing to win by reaching the target score first.
 A fun and interactive dice-based game built with HTML, CSS, and JavaScript. The Pig Game is a two-player game where players take turns rolling a dice, accumulating points, and strategizing to win by reaching the target score first.
 
-##📝 Features
+#📝 Features
 🎲 Dice Rolling: Simulates rolling a dice with random outcomes (1-6).
 📈 Score Tracking: Keeps track of each player's current and total scores.
 🛑 Hold Feature: Allows players to save their score and pass the turn.
